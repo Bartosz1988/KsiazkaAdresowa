@@ -1,0 +1,3 @@
+1|Adam|Sarna|123 321 123|adam@saarenka.pl|ul. Piekna 20; 33-390 Krakow|
+2|Kasia|Kowalczyk|555 444 333|kasia@kowalczyk.pl|ul. Zabiniec, Krakow|
+3|Michal|Jarzabek|333 222 111|michal@jarzabek.pl|ul. Wybickiego, 33-310 Krakow|
